@@ -1,0 +1,65 @@
+{
+  "title": "Page3",
+  "actions": [],
+  "displayName": null,
+  "description": null,
+  "position": 1,
+  "availabilityInLiveMode": true,
+  "styles": {
+    "hasBorder": false,
+    "pageWidth": "1024",
+    "background": "#ffffff",
+    "borderSize": "1",
+    "pageHeight": "768",
+    "borderColor": "#d4d4d4",
+    "hasBackground": true
+  },
+  "widgets": [
+    {
+      "format": {},
+      "geometry": {
+        "x": 443,
+        "y": 293,
+        "order": 1,
+        "width": 150,
+        "height": 100
+      },
+      "enabled": true,
+      "editable": {
+        "value": [
+          [true]
+        ]
+      },
+      "title": "image1",
+      "cellStyles": {
+        "value": [
+          [""]
+        ],
+        "stylesMap": []
+      },
+      "styles": {
+        "hasBorder": false,
+        "hasShadow": false,
+        "background": "#fff",
+        "borderSize": "1",
+        "borderColor": "#d4d4d4",
+        "showTooltip": false,
+        "borderRadius": "6",
+        "hasBackground": false,
+        "borderPosition": ["top","right","bottom","left"]
+      },
+      "type": "IMAGE",
+      "rawData": {
+        "value": [
+          [null]
+        ]
+      },
+      "visible": true,
+      "titleInfo": {
+        "pageTitle": "Page3"
+      },
+      "actions": []
+    }
+  ],
+  "parentId": null
+}
