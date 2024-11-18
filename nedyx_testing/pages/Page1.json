@@ -72,11 +72,7 @@
       "type": "CELL",
       "rawData": {
         "value": [
-<<<<<<< HEAD
-          ["Hallo Welt"]
-=======
           ["Hello World"]
->>>>>>> 541632d4683d6b937e306fb36656c4a4181c4f78
         ]
       },
       "visible": true,
